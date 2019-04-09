@@ -1,0 +1,184 @@
+{
+   "movies" :   [
+  { 
+    "id" : 1,
+    "title": "Ben Is Back",
+    "year": 2018,
+    "cast": [
+      "Lucas Hedges",
+      "Julia Roberts",
+      "Kathryn Newton",
+      "Courtney B. Vance"
+    ],
+    "genres" : "Drama",
+    "rating" : 7
+  },
+  {
+    "id" : 2,
+    "title": "Mortal Engines",
+    "year": 2018,
+    "cast": [
+      "Hera Hilmar",
+      "Robert Sheehan",
+      "Hugo Weaving",
+      "Jihae",
+      "Ronan Raftery",
+      "Leila George",
+      "Patrick Malahide",
+      "Stephen Lang"
+    ],
+    "genres": 
+      "Science Fiction",
+    "rating" : 8
+  },
+  {
+    "id" : 3,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Mahershala Ali",
+      "Jake Johnson",
+      "Liev Schreiber",
+      "Brian Tyree Henry",
+      "Luna Lauren Velez",
+      "Lily Tomlin",
+      "John Mulaney",
+      "Kimiko Glenn",
+      "Nicholas Cage"
+    ],
+    "genres": 
+      "Animated",
+
+    "rating" : 5
+  },
+  {
+    "id" : 4,
+    "title": "The Mule",
+    "year": 2018,
+    "cast": [
+      "Clint Eastwood",
+      "Bradley Cooper",
+      "Laurence Fishburne",
+      "Michael Peña",
+      "Dianne Wiest",
+      "Andy Garcia"
+    ],
+    "genres": 
+      "Drama",
+      
+    "rating" : 9
+  },
+  {
+    "id" : 5,
+    "title": "Vice",
+    "year": 2018,
+    "cast": [
+      "Christian Bale",
+      "Amy Adams",
+      "Steve Carell",
+      "Sam Rockwell",
+      "Alison Pill",
+      "Jesse Plemons",
+      "Lily Rabe",
+      "Bill Pullman",
+      "Tyler Perry"
+    ],
+    "genres": 
+      "Biography",
+     
+    "rating" : 7
+  },
+  {
+    "id" : 6,
+    "title": "Second Act",
+    "year": 2018,
+    "cast": [
+      "Jennifer Lopez",
+      "Vanessa Hudgens",
+      "Leah Remini",
+      "Annaleigh Ashford",
+      "Freddie Stroma",
+      "Dan Bucatinsky",
+      "Milo Ventimiglia",
+      "Treat Williams",
+      "Larry Miller"
+    ],
+    "genres": 
+      "Romance",
+
+    "rating" : 10
+  },
+  {
+    "id" : 7,
+    "title": "Mary Poppins Returns",
+    "year": 2018,
+    "cast": [
+      "Emily Blunt",
+      "Lin-Manuel Miranda",
+      "Ben Whishaw",
+      "Emily Mortimer",
+      "Julie Walters",
+      "Colin Firth",
+      "Meryl Streep",
+      "Dick Van Dyke",
+      "Angela Lansbury"
+    ],
+    "genres": 
+      "Musical",
+
+    "rating" : 8
+  },
+  {
+    "id" : 8,
+    "title": "Aquaman",
+    "year": 2018,
+    "cast": [
+      "Jason Momoa",
+      "Amber Heard",
+      "Willem Dafoe",
+      "Patrick Wilson",
+      "Dolph Lundgren",
+      "Yahya Abdul-Mateen II",
+      "Nicole Kidman"
+    ],
+    "genres": 
+      "Superhero",
+    "rating" : 7
+  },
+  {
+    "id" : 9,
+    "title": "Bumblebee",
+    "year": 2018,
+    "cast": [
+      "Hailee Steinfeld",
+      "John Cena",
+      "Jorge Lendeborg Jr.",
+      "Jason Drucker",
+      "Rachel Crow",
+      "Pamela Adlon"
+    ],
+    "genres": 
+      "Action",
+    "rating" : 6
+  },
+  {
+    "id" : 10,
+    "title": "Welcome to Marwen",
+    "year": 2018,
+    "cast": [
+      "Steve Carell",
+      "Leslie Mann",
+      "Diane Kruger",
+      "Falk Hentschel",
+      "Janelle Monáe",
+      "Eiza Gonzalez",
+      "Gwendoline Christie"
+    ],
+    "genres": 
+      "Fantasy",
+    "rating" : 9
+  }
+  ]
+}

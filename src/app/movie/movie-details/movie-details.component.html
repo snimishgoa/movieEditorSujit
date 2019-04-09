@@ -1,0 +1,21 @@
+<div *ngIf="movie; else movieNotFound">
+  <h1> Movie Details : </h1> 
+    <div class="card-block">
+      <p class="movie">
+          <img src="assets/imgs/movie.jpg"  class="img-responsive img-rounded"
+                [title]="movie.title" />
+      </p>
+      <p><b>Title:</b> {{movie.title | uppercase }}</p>
+      <p><b>Release Date:</b> {{movie.year}}</p>
+      <p><b>Genre:</b> {{movie.genre}}</p>
+      <p><b>Rating:</b> {{movie.rating}}</p>
+      <!--<p><b>Cast:</b> {{movie.cast}}</p>-->
+  </div>
+</div>
+
+<ng-template #movieNotFound>
+  <h1>
+    Movie Not Found
+  </h1>
+</ng-template>
+
